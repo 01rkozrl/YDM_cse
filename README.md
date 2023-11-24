@@ -18,12 +18,7 @@
 5. **마이페이지** : 프로필 관리, 내가 올린 글 확인, 책갈피 모아보기
 
 ### 개발 환경
-* React 개발 (javascript 기반 프론트엔드 라이브러리)
-*   redux(javascript 기반 상태 관리 라이브러리) => 액션을 dispatch 하여 reducer 호출
-*     리액트 프로젝트에서 redux 를 사용하여 상태 관리에 활용.
-*   node : javascript 백엔드 runtime 환경. react 개발에 필요한 다양한 모듈을 다운로드 할 수 있게 된다.(ex.npm install XXX) 
-* antd 디자인 도구 활용(링크)
-* 데이터베이스 : MySQL DB (시퀄라이즈 활용하여 연결)
+React, Redux, node.js, next.js, MySQL 
   
 
   
